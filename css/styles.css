@@ -1,0 +1,91 @@
+.container {
+    background-color: gray;
+    width: 950px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.title {
+    display: inline-block;
+    font-style: italic;
+    width: 65%;
+    padding: 10px;
+    margin: 0px;
+}
+
+.display {
+    display: inline-block;
+}
+
+.maincontent {
+    background-color: #4c3840;
+    padding: 20px;
+}
+
+.aboutme {
+    height: 268px;
+    width: 425px;
+    background-color: white;
+    vertical-align: top;
+    margin-left: 20px;
+    background-image: linear-gradient(#fefefe, #e2d6e0, rgb(240, 228, 240));
+}
+
+.aboutmeheader {
+    background-image: linear-gradient(gray, darkgray, gray);
+    padding: 4px;
+    color: white;
+    margin: 0px;
+}
+
+.profileimage {
+    width: 445px;
+    height: 260px;
+    border: gray;
+    border-style: solid;
+    border-width: 5px;
+}
+
+.paragraphstyle {
+    padding: 10px;
+}
+
+.subcontentpara {
+    height: 170px;
+}
+
+.subcontents {
+    display: flex;
+    justify-content: space-between;
+    align-content: flex-start;
+    width: 905px
+}
+
+.col {
+    background-image: linear-gradient(#fefefe, #e2d6e0, rgb(240, 228, 240));
+    width: 285px;
+    margin-top: 20px;
+}
+
+.subContentImages {
+    max-width: 100%;
+    height: auto;
+}
+
+.techimages {
+    max-width: 39px;
+    height: auto;
+    display: inline;
+    padding: 5px;
+}
+
+.buttonstyle {
+    background-color: #5c8f5d;
+    border-radius: 10px;
+    text-align: center;
+    align-items: center;
+    display: block;
+    margin: auto auto 20px auto;
+    box-shadow: 4px 4px #bbb7b7;
+    color: honeydew;
+}
