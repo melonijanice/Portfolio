@@ -89,3 +89,20 @@
     box-shadow: 4px 4px #bbb7b7;
     color: honeydew;
 }
+
+footer p {
+    text-align: center;
+}
+
+footer img {
+    width: 20px;
+}
+
+footer a {
+    color: black;
+}
+
+footer div {
+    text-align: center;
+    font-style: italic;
+}
